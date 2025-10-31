@@ -19,11 +19,15 @@
 ### Visualisierung:
 **Input:**
 
+<p align="center">
 <img src="Tesla%20Input.jpg" alt="Frontend Pre-Analysis" width="50%">
+</p>
 
 **Output:**
 
+<p align="center">
 <img src="Tesla%20Output.jpg" alt="Frontend Post-Analysis" width="50%">
+</p>
 
 ## Hinweis:
-Die Trainingsdaten wurden mit der Standardversion von OpenAI "gpt-4o-mini" automatisch erfasst und beinhalten tatsächliche Reddit-Beiträge. Die Trainingsdaten wurden in einem vordefinierten Format als JSONL-Datei erfasst und unter festgelegten Entscheidungsregeln manuell angepasst, um die gewünschte Funktionsweise zu garantieren. Der in diesem Repository aufgeführte Algorythmus umfasst legiglich die finale Funktionsweise des KI-Systems, **ohne** das vorangegangene FineTuning des verwendeten GPT-Modells.
+Die Trainingsdaten wurden mit der Standardversion von OpenAI *gpt-4o-mini* automatisch erfasst und beinhalten tatsächliche Reddit-Beiträge. Die Trainingsdaten wurden in einem vordefinierten Format als JSONL-Datei erfasst und unter festgelegten Entscheidungsregeln manuell angepasst, um die gewünschte Funktionsweise zu garantieren. Der in diesem Repository aufgeführte Algorithmus umfasst legiglich die finale Funktionsweise des KI-Systems, **ohne** das vorangegangene FineTuning des verwendeten GPT-Modells.
