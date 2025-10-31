@@ -19,13 +19,11 @@
 ### Visualisierung:
 **Input:**
 
-<p align="center">
 <img src="Tesla%20Input.jpg" alt="Frontend Pre-Analysis" width="50%">
 </p>
 
 **Output:**
 
-<p align="center">
 <img src="Tesla%20Output.jpg" alt="Frontend Post-Analysis" width="50%">
 </p>
 
