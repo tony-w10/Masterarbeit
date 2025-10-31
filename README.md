@@ -12,6 +12,8 @@
 3. **Numerische Verrechnung und Gewichtung** des Analyseoutputs im Backend
 4. **Übermittlung an das Frontend** und Ausgabe der aggregierten Ergebnisse
 
+Alle Python-Skripte befinden sich im Ordner "scripts" und sind gemäß ihrer Funktionen gekennzeichnet.
+
 ### Key Learnings / Highlights:
 - Numerische Erfassung der Börsenstimmung durch individualisierte Sentimentanalyse und einer Buy-Sell-Intention mit OpenAI
 - Aggregierte Daten schließen auf eine Korrelation zwischen Stimmung und Kursentwicklung
