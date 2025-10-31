@@ -18,10 +18,10 @@
 
 ### Visualisierung
 **Input:**
-(Tesla Input.jpg)
+(Tesla%20Input.jpg)
 
 **Output:**
-(Tesla Input.jpg)
+(Tesla%20Input.jpg)
 
 ## Hinweis:
 Die Trainingsdaten wurden mit der Standardversion von OpenAI "gpt-4o-mini" automatisch erfasst und beinhalten tatsächliche Reddit-Beiträge. Die Trainingsdaten wurden in einem vordefinierten Format als JSONL-Datei erfasst und unter festgelegten Entscheidungsregeln manuell angepasst, um die gewünschte Funktionsweise zu garantieren. Der in diesem Repository aufgeführte Algorythmus umfasst legiglich die finale Funktionsweise des KI-Systems, **ohne** das vorangegangene FineTuning des verwendeten GPT-Modells.
