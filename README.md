@@ -6,20 +6,20 @@
 - FineTuning mit OpenAI
 - Microsoft Excel
 
-### Projektstruktur
+### Projektstruktur:
 1. **Trainingsdaten** für den FineTuning Prozess generieren und formatieren 
 2. **Beiträge durchsuchen** und an die Sentimentanalyse übergeben
 3. **Numerische Verrechnung und Gewichtung** des Analyseoutputs im Backend
 4. **Übermittlung an das Frontend** und Ausgabe der aggregierten Ergebnisse
 
-### Key Learnings / Highlights
+### Key Learnings / Highlights:
 - Numerische Erfassung der Börsenstimmung durch individualisierte Sentimentanalyse und einer Buy-Sell-Intention mit OpenAI
 - Aggregierte Daten schließen auf eine Korrelation zwischen Stimmung und Kursentwicklung
 
-### Visualisierung
+### Visualisierung:
 **Input:**
 
-![Frontend Pre-Analysis](Tesla%20Input.jpg)
+<img src="Tesla%20Input.jpg" alt="Frontend Pre-Analysis" width="20%">
 
 **Output:**
 
