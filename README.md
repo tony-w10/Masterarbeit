@@ -18,9 +18,11 @@
 
 ### Visualisierung
 **Input:**
+
 ![Frontend Pre-Analysis](Tesla%20Input.jpg)
 
 **Output:**
+
 ![Frontend Post-Analysis](Tesla%20Input.jpg)
 
 ## Hinweis:
