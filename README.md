@@ -1,5 +1,5 @@
 # Masterarbeit: Entwicklung eines KI-Systems zur Analyse der Börsenstimmung innerhalb der Nachrichtenplattform Reddit
-## Ziel der Arbeit ist die Entwicklung eines vollumfänglichen KI-Systems, welches die Börsenstimmung in finanzorientierten Subreddits automatisch erfasst und in aggregierter Form und anhand von zwei numerischen Kennazahlen ausgibt: 
+## Ziel der Arbeit ist die Entwicklung eines vollumfänglichen KI-Systems, welches die Börsenstimmung in finanzorientierten Subreddits automatisch erfasst und in aggregierter Form und anhand von zwei numerischen Kennzahlen ausgibt: 
 - **Sentimentwert** 
 - **Buy-Sell-Intention**
 
