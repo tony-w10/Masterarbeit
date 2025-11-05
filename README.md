@@ -20,11 +20,11 @@
 
 ### Hinweise:
 - Alle Python-Skripte befinden sich im Ordner "scripts" und sind gemäß ihrer Funktionen gekennzeichnet
-- Der Traininsdatensatz ist in selbigem Ordner gekennzeichnet
+- Der Traininsdatensatz ist aus Gründen des Datenschutzes lediglich anonymisiert und exemplarisch dargestellt 
 - API-Keys sind aus Sicherheitsgründen durch eigene zu ersetzen
 
 ### Weitere Hinweise:
-Die Trainingsdaten wurden mit der Standardversion von OpenAI *gpt-4o-mini* automatisch erfasst und beinhalten tatsächliche Reddit-Beiträge. Die Trainingsdaten wurden in einem vordefinierten Format als JSONL-Datei erfasst und unter festgelegten Entscheidungsregeln manuell angepasst, um die gewünschte Funktionsweise zu garantieren. Die zugehörigen Entscheidungsregeln für die Trainingsdaten sowie die konkrete Auswertung der Korrelation sind kein Bestandteil dieses Repositorys.
+Im System selbst wurden die Trainingsdaten mit der Standardversion von OpenAI *gpt-4o-mini* automatisch erfasst und beinhalten tatsächliche Reddit-Beiträge. Die Trainingsdaten wurden in einem vordefinierten Format als JSONL-Datei erfasst und unter festgelegten Entscheidungsregeln manuell angepasst, um die gewünschte Funktionsweise zu garantieren. Die zugehörigen Entscheidungsregeln für die Trainingsdaten sowie die konkrete Auswertung der Korrelation sind kein Bestandteil dieses Repositorys.
 
 ### Exemplarische Visualisierung der Benutzeroberfläche:
 **Input:**
