@@ -20,7 +20,7 @@
 
 ### Hinweise:
 - Alle Python-Skripte befinden sich im Ordner "scripts" und sind gemäß ihrer Funktionen gekennzeichnet
-- Der Traininsdatensatz ist aus Gründen des Datenschutzes lediglich anonymisiert und exemplarisch dargestellt 
+- Der Traininsdatensatz befindet sich im Ordner "data" und ist aus Gründen des Datenschutzes in anonymisierter und exemplarischer Form bereitgestellt
 - API-Keys sind aus Sicherheitsgründen durch eigene zu ersetzen
 
 ### Weitere Hinweise:
